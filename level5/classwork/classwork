@@ -1,0 +1,5 @@
+namber = 10
+namber = namber + 5
+
+
+print(namber)
