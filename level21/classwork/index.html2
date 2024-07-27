@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action=""> 
+        <label for="name" > Enter name:</label><br>
+        <input type="text" name="name" id="name"><br>
+
+        <label for="email"> Enter email:</label><br>
+        <input type="email" name="email" id="email"><br>
+
+        <label for="password" > Enter password:</label><br>
+        <input type="password" name="pss " id="pass"><br>
+    </form>
+    <div class="container">
+        <div class="dropdown">
+            <b>Colors:</b>
+          <select class="dropdown">
+            <option>Red</option>
+            <option>Blue</option>
+            <option>Black</option>
+            <option>Green</option>
+            <option>Yellow</option>
+          </select>
+        </div>
+        <div class="dropdown">
+            <b>Animalls:</b>
+          <select class="dropdown1">
+            <option>Dog</option>
+            <option>Cat</option>
+            <option>Goat</option>
+            <option>Horse</option>
+            <option>Rubbit</option>
+          </select>
+        </div>
+        <div class="dropdown">
+            <b>Fruits:</b>
+          <select class="dropdown3">
+            <option>Apple</option>
+            <option>Orange</option>
+            <option>Banana</option>
+            <option>Lemon</option>
+            <option>Cherry</option>
+          </select>
+        </div>
+        <div class="dropdown">
+            <b>Devices:</b>
+          <select class="dropdown4">
+            <option>Phone</option>
+            <option>Laptop</option>
+            <option>Pc</option>
+            <option>Tablet</option>
+            <option>TV</option>
+          </select>
+        </div>
+      </div>
+      
+</body>
+</html>
